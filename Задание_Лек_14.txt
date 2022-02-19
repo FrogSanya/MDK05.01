@@ -1,0 +1,6 @@
+ Лекция 5: Качество ПО и методы его контроля https://intuit.ru/studies/courses/64/64/lecture/1874
+
+Лекция 6: Архитектура программного обеспечения https://intuit.ru/studies/courses/64/64/lecture/1876
+
+Лекция 7: Образцы проектирования
+https://intuit.ru/studies/courses/64/64/lecture/1878
